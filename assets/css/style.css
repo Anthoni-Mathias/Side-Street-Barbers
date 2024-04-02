@@ -694,7 +694,7 @@ textarea.input-field {
 .footer-top { margin-block-end: 65px; }
 
 .footer-brand {
-  border: 1px solid var(--white_10);
+  //border: 1px solid var(--white_10);
   margin-block-end: 70px;
 }
 
